@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @david-deleon03
+- 👀 I’m interested in software engineering and web development
+- 🌱 I’m currently learning Java
